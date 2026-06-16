@@ -12,6 +12,7 @@ export default function Home() {
         src="/video.mp4"
         autoPlay
         loop
+        muted
         controls={false}
         playsInline
         style={{
